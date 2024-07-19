@@ -1,0 +1,83 @@
+Date,CustomerID,Product,Rating,Feedback,NetPromoterScore
+2024-07-01,1001,Product A,4,"Good product but could use some improvements.",8
+2024-07-01,1002,Product B,5,"Excellent service and fast delivery!",9
+2024-07-02,1003,Product C,3,"The product is okay but not as expected.",6
+2024-07-02,1004,Product D,2,"Not satisfied with the quality.",3
+2024-07-03,1005,Product E,4,"Good quality, but a bit pricey.",7
+2024-07-04,1006,Product F,5,"Fantastic product, highly recommend!",10
+2024-07-04,1007,Product G,1,"Very disappointed, will not buy again.",2
+2024-07-05,1008,Product H,3,"Average experience, nothing special.",5
+2024-07-05,1009,Product I,4,"Overall good, but delivery was delayed.",7
+2024-07-06,1010,Product J,5,"Great quality and excellent customer service.",9
+2024-07-07,1011,Product A,2,"Not what I expected. Needs improvement.",4
+2024-07-08,1012,Product B,5,"Amazing product and fast shipping!",10
+2024-07-08,1013,Product C,3,"Product is okay, but could be better.",6
+2024-07-09,1014,Product D,4,"Satisfactory performance, happy with the purchase.",8
+2024-07-09,1015,Product E,2,"Quality didn't meet my expectations.",3
+2024-07-10,1016,Product F,4,"Good product, but a bit expensive.",7
+2024-07-11,1017,Product G,5,"Very pleased with the quality and service!",9
+2024-07-11,1018,Product H,3,"Average product, decent service.",5
+2024-07-12,1019,Product I,1,"Extremely dissatisfied, poor quality.",2
+2024-07-12,1020,Product J,4,"Overall good experience with some minor issues.",7
+2024-07-13,1021,Product A,5,"Exceptional product and support!",10
+2024-07-13,1022,Product B,2,"Not worth the price, very disappointed.",3
+2024-07-14,1023,Product C,3,"It's okay, but I expected more.",6
+2024-07-14,1024,Product D,4,"Good value for the price, would buy again.",8
+2024-07-15,1025,Product E,5,"Excellent quality and fast delivery.",9
+2024-07-16,1026,Product F,2,"Poor quality and slow delivery.",4
+2024-07-16,1027,Product G,3,"Average product, service could be better.",5
+2024-07-17,1028,Product H,4,"Satisfied with the purchase, would recommend.",7
+2024-07-17,1029,Product I,5,"Fantastic, exceeded my expectations!",10
+2024-07-18,1030,Product J,2,"Not impressed with the product.",3
+2024-07-18,1031,Product A,4,"Good product, but the delivery was late.",6
+2024-07-19,1032,Product B,3,"It works, but there were some issues.",5
+2024-07-19,1033,Product C,5,"Perfect purchase, very happy with it!",9
+2024-07-20,1034,Product D,2,"Disappointed with the quality.",3
+2024-07-20,1035,Product E,4,"Very good product, will buy again.",8
+2024-07-21,1036,Product F,5,"Outstanding quality and service.",10
+2024-07-21,1037,Product G,3,"Product is okay, but delivery was slow.",6
+2024-07-22,1038,Product H,2,"Not up to my expectations.",4
+2024-07-22,1039,Product I,4,"Good product, reasonable price.",7
+2024-07-23,1040,Product J,5,"Top-notch quality, very satisfied.",9
+2024-07-23,1041,Product A,3,"Average product, could be improved.",5
+2024-07-24,1042,Product B,4,"Satisfied with the purchase, will recommend.",8
+2024-07-24,1043,Product C,2,"Quality needs improvement.",3
+2024-07-25,1044,Product D,5,"Excellent product and fast service!",10
+2024-07-25,1045,Product E,3,"Average experience, service could be better.",5
+2024-07-26,1046,Product F,4,"Good value for the money.",7
+2024-07-26,1047,Product G,2,"Disappointed with the purchase.",4
+2024-07-27,1048,Product H,5,"Great product and quick delivery!",9
+2024-07-27,1049,Product I,3,"Satisfactory but not impressive.",6
+2024-07-28,1050,Product J,4,"Good quality, will buy again.",7
+2024-07-28,1051,Product A,2,"Did not meet my expectations.",3
+2024-07-29,1052,Product B,5,"Excellent quality, very happy!",10
+2024-07-29,1053,Product C,3,"It’s okay, but I expected better.",5
+2024-07-30,1054,Product D,4,"Good overall, would recommend.",8
+2024-07-30,1055,Product E,2,"Not satisfied with the product.",2
+2024-07-31,1056,Product F,5,"Fantastic experience, highly recommend!",9
+2024-07-31,1057,Product G,4,"Very good product, but delivery was delayed.",7
+2024-08-01,1058,Product H,3,"Average quality, delivery was on time.",5
+2024-08-01,1059,Product I,2,"Not happy with the purchase, expected better.",4
+2024-08-02,1060,Product J,5,"Great product and excellent support!",10
+2024-08-02,1061,Product A,4,"Good quality, would recommend.",8
+2024-08-03,1062,Product B,3,"It works fine, but could be improved.",6
+2024-08-03,1063,Product C,2,"Disappointed with the quality.",3
+2024-08-04,1064,Product D,5,"Outstanding quality, very satisfied!",10
+2024-08-04,1065,Product E,4,"Good product, service was decent.",7
+2024-08-05,1066,Product F,3,"Average product, could be better.",5
+2024-08-05,1067,Product G,2,"Not worth the price.",3
+2024-08-06,1068,Product H,5,"Excellent quality and fast delivery!",9
+2024-08-06,1069,Product I,4,"Very good experience overall.",8
+2024-08-07,1070,Product J,3,"Satisfactory but has some issues.",6
+2024-08-07,1071,Product A,2,"Poor quality, will not purchase again.",4
+2024-08-08,1072,Product B,5,"Fantastic product, highly recommend!",10
+2024-08-08,1073,Product C,4,"Good product, value for money.",7
+2024-08-09,1074,Product D,3,"It's okay, but I expected better quality.",5
+2024-08-09,1075,Product E,2,"Not impressed with the product.",3
+2024-08-10,1076,Product F,5,"Excellent quality, very happy!",9
+2024-08-10,1077,Product G,4,"Good product, but the delivery was delayed.",6
+2024-08-11,1078,Product H,3,"Average quality, service was okay.",5
+2024-08-11,1079,Product I,2,"Not what I expected, poor quality.",4
+2024-08-12,1080,Product J,5,"Great experience, would recommend!",10
+2024-08-12,1081,Product A,4,"Very good product and service.",7
+2024-08-13,1082,Product B,3,"Satisfactory, but could be improved.",6
