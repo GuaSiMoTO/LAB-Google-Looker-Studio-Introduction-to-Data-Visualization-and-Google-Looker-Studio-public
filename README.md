@@ -32,18 +32,45 @@ You can download the customer_nps.csv file in this repository. This CSV contains
 
 ### Iteration 2: Pie Chart
 
+Design a pie Chart that shows the percentage of reviews, divided by product. The chart has to have:
+- A meaningful title.
+- A legend.
+- The colors of Reboot Academy or similar.
+- Disable the 
 
 ### Iteration 3: Bar Chart
 
+Create a Bar chart that shows the averange rating of the products. It has to have this characteristics:
+
+- Each bar has to show the number of its averange rating.
+- It has to be ordered by the product rating in ascending.
+- It needs to have a descriptive title.
+- The Legend has to be disabled.
+- The rating axis should show the word "Rating", to make it more understandable.
+- The colors of Reboot Academy or similar.
 
 ### Iteration 4: KPI
 
-
-### Iteration 5: Scatter Plots
-
+Show in a number the averange NPS (Net Promoter Score) of the dataset:
+- Do not forget the title to describe it.
+- Add some color, border and round shape to the background.
+- Remove the name of the variable.
 
 ### Iteration 5: Line Chart
 
+Create an accumulative mean of the NetPromoterScore.
+- Show the axis titles.
+- Write a meaningful title.
+- Disable the legend.
+
+### Iteration 6: Scatter Plot
+
+Create a ScatterPlot where you can compare the the behaviour of Rating-NetPromoterScore.
+- Remove the legend.
+- The axis should show what variable is representing.
+- Write a meaningful title.
+- Colors matching with your report.
+- Add a tendency line that could match the trend of the data.
 
 ### Bonus
 
