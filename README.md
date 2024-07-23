@@ -100,7 +100,7 @@ Do not forget to make it pretty 🌺✨
 
 ### Bonus 2
 
-Now lets get a bit classy. We will analyze what makes a good wine. In this link you can find a Wine Quality Dataset --> (Wine Quality)[https://archive.ics.uci.edu/dataset/186/wine+quality]. Download the data and choose white or red wine. Try to find the next insights and show them in a report:
+Now lets get a bit classy. We will analyze what makes a good wine. In this link you can find a 🍷 Wine Quality Dataset 🍷 --> (Wine Quality)[https://archive.ics.uci.edu/dataset/186/wine+quality]. Download the data and choose white or red wine. Try to find the next insights and show them in a report:
 - What makes a good wine (KPIs).
 - What makes a poor wine (KPIs).
 - What variables has a linear relationship (use Scatter Plot for that).
@@ -108,9 +108,9 @@ Now lets get a bit classy. We will analyze what makes a good wine. In this link 
 
 ### Bonus 3
 
-Now we will switch to something more serious. Wine is fun, but we have to take care about ourselves too. This dataset is related to Breast Cancer Disease --> (Breast Cancer Wisconsin)[[https://archive.ics.uci.edu/dataset/45/heart+disease](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)]. Check the variables metadata in the link, and download the csv. The data is contained in the wdbc.data file. The wbdc.names file explains what means each variable.
+Now we will switch to something more serious. Wine is fun, but we have to take care about ourselves too. This dataset is related to 🩺❤️‍🩹 Breast Cancer Disease ❤️‍🩹🩺 --> (Breast Cancer Wisconsin)[[https://archive.ics.uci.edu/dataset/45/heart+disease](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)]. Check the variables metadata in the link, and download the csv. The data is contained in the wdbc.data file. The wbdc.names file explains what means each variable.
 
-Now, lets create an interactive report, where you can choose to see the data of the positives and negatives. For this, we will first create a Pie Chart that separate the Benign and the malignants. After this, you should add more charts that explain the other variables distribution and relationships. Be creative, so the doctor can find the patterns. Good luck!
+Now, lets create an interactive report, where you can choose to see the data of the positives and negatives. For this, we will first create a Pie Chart that separate the Benign and the malignants. After this, you should add more charts that explain the other variables distribution and relationships. Be creative, so the doctor 👩‍⚕️ can find the patterns. Good luck!
 
 # Submission
 Once you have completed your analysis and visualizations, make a PDF of your reports and push them to your forked GitHub repository. Ensure that your final submission includes narratives explaining your visualizations and insights.
