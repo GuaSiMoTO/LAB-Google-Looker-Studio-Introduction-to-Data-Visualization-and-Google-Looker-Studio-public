@@ -98,7 +98,7 @@ Use, at least once, these charts:
 
 Do not forget to make it pretty 🌺✨
 
-### Bonus 2
+### Iteration 3
 
 Now lets get a bit classy. We will analyze what makes a good wine. In this link you can find a 🍷 Wine Quality Dataset 🍷 --> (Wine Quality)[https://archive.ics.uci.edu/dataset/186/wine+quality]. Download the data and choose white or red wine. Try to find the next insights and show them in a report:
 - What makes a good wine (KPIs).
@@ -106,7 +106,7 @@ Now lets get a bit classy. We will analyze what makes a good wine. In this link 
 - What variables has a linear relationship (use Scatter Plot for that).
 - Find a variable that is similar in all qualities. (use Line Chart with dimension).
 
-### Bonus 3
+### Bonus
 
 Now we will switch to something more serious. Wine is fun, but we have to take care about ourselves too. This dataset is related to 🩺❤️‍🩹 Breast Cancer Disease ❤️‍🩹🩺 --> (Breast Cancer Wisconsin)[[https://archive.ics.uci.edu/dataset/45/heart+disease](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)]. Check the variables metadata in the link, and download the csv. The data is contained in the wdbc.data file. The wbdc.names file explains what means each variable.
 
