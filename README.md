@@ -44,7 +44,6 @@ Design a pie Chart that shows the percentage of reviews, divided by product. The
 - A meaningful title.
 - A legend.
 - The colors of Reboot Academy or similar.
-- Disable the 
 
 ### Iteration 1.3: Bar Chart 📊
 
