@@ -99,7 +99,7 @@ Do not forget to make it pretty 🌺✨
 
 ### Iteration 3
 
-Now lets get a bit classy. We will analyze what makes a good wine. In this link you can find a 🍷 Wine Quality Dataset 🍷 --> (Wine Quality)[https://archive.ics.uci.edu/dataset/186/wine+quality]. Download the data and choose white or red wine. Try to find the next insights and show them in a report:
+Now lets get a bit classy. We will analyze what makes a good wine. In this link you can find a 🍷 Wine Quality Dataset 🍷 --> (Wine Quality). 
 - What makes a good wine (KPIs).
 - What makes a poor wine (KPIs).
 - What variables has a linear relationship (use Scatter Plot for that).
