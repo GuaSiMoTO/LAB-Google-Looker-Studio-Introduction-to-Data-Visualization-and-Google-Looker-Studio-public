@@ -107,6 +107,8 @@ Use, at least once, these charts:
 
 Do not forget to make it pretty 🌺✨
 
+### Bonus
+
 ## Iteration 3
 
 <img src="https://github.com/user-attachments/assets/2a6f5540-010d-40e5-b117-ab3e34be7bad" alt="Descripción de la imagen" width="900" height="400" 
@@ -118,7 +120,6 @@ Now lets get a bit classy. We will analyze what makes a good wine. In this link 
 - What variables has a linear relationship (use Scatter Plot for that).
 - Find a variable that is similar in all qualities. (use Line Chart with dimension).
 
-### Bonus
 
 Now we will switch to something more serious. Wine is fun, but we have to take care about ourselves too. This dataset is related to 🩺❤️‍🩹 Breast Cancer Disease ❤️‍🩹🩺 --> (Breast Cancer Wisconsin)[[https://archive.ics.uci.edu/dataset/45/heart+disease](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)]. Check the variables metadata in the link, and download the csv. The data is contained in the wdbc.data file. The wbdc.names file explains what means each variable.
 
