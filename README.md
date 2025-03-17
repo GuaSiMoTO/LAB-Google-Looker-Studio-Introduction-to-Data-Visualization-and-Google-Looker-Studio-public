@@ -17,6 +17,9 @@ Start by forking the provided GitHub repository to your account and then clone i
 
 ### Scenario
 
+<img src="https://github.com/user-attachments/assets/d88423d7-ce6a-4268-9197-da491d0263fe" alt="Descripción de la imagen" width="1000" />
+
+
 We will analyze the data of a Customer Satisfaction survey. This would have 2 main scoring data:
 - **Product Rating**: is the product value that the client has over our data.
 - **NPS Score**: is the probability of recommending our product to other client.
