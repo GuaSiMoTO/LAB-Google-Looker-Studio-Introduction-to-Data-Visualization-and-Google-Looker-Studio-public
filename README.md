@@ -86,7 +86,10 @@ Create a ScatterPlot where you can compare the the behaviour of Rating-NetPromot
 - Colors matching with your report.
 - Add a tendency line that could match the trend of the data.
 
-### Iteration 2
+## Iteration 2
+
+
+<img src="https://github.com/user-attachments/assets/1bd39648-8ede-45b6-9c59-f7e78b5289fb" alt="Descripción de la imagen" width="900" height="400" />
 
 In this link you can find the 🚢 Titanic Passenger Data 🚢 --> (Titanic Dataset)[https://www.kaggle.com/c/titanic/data]. There is a link to download, and a table with the explanation of each variable. Get the titanic dataset  and make a report that explains these relations:
 - Port of embarcation and survival.
@@ -104,7 +107,10 @@ Use, at least once, these charts:
 
 Do not forget to make it pretty 🌺✨
 
-### Iteration 3
+## Iteration 3
+
+<img src="https://github.com/user-attachments/assets/2a6f5540-010d-40e5-b117-ab3e34be7bad" alt="Descripción de la imagen" width="900" height="400" 
+ />
 
 Now lets get a bit classy. We will analyze what makes a good wine. In this link you can find a 🍷 Wine Quality Dataset 🍷 --> (Wine Quality). 
 - What makes a good wine (KPIs).
