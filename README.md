@@ -107,9 +107,9 @@ Use, at least once, these charts:
 
 Do not forget to make it pretty 🌺✨
 
-### Bonus
+## Bonus
 
-## Iteration 3
+### Iteration 3
 
 <img src="https://github.com/user-attachments/assets/2a6f5540-010d-40e5-b117-ab3e34be7bad" alt="Descripción de la imagen" width="900" height="400" 
  />
