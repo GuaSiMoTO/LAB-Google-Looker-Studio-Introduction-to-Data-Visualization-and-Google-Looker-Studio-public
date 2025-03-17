@@ -15,7 +15,8 @@ Start by forking the provided GitHub repository to your account and then clone i
 - [Learn how to fork this repo](https://guides.github.com/activities/forking/)
 - Clone this repo into your `code/labs` folder
 
-### Scenario
+## Iteration 1
+
 
 <img src="https://github.com/user-attachments/assets/d88423d7-ce6a-4268-9197-da491d0263fe" alt="Descripción de la imagen" width="900" height="400" 
  />
@@ -37,7 +38,7 @@ In our dataset, there will be a list of reviews done by the client. The reviews 
 
 You can download the customer_nps.csv file in this repository. This CSV contains all the data for this project.
 
-### Iteration 0: Create a Data Source with the customer_nps.csv file.
+### Iteration 1.0: Create a Data Source with the customer_nps.csv file.
 
 Go to your looker studio and create a Data Source with the CSV contained in this repository.
 
