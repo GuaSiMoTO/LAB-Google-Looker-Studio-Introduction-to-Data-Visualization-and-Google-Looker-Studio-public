@@ -1,3 +1,6 @@
+
+![COVER_-_EMAIL](https://github.com/user-attachments/assets/ca207512-d03b-40ee-9012-1c3c62e92c2a)
+
 # LAB-Google-Looker-Studio-Introduction-to-Data-Visualization-and-Google-Looker-Studio
 
 ## Introduction
@@ -128,3 +131,5 @@ Then create a Pull Request!!
 - [Google Looker Studio Visualization types](https://cloud.google.com/looker/docs/visualization-types)
 - [Looker Charts Reference](https://support.google.com/looker-studio/topic/7059081)
 - [Downloading your report as PDF](https://support.google.com/looker-studio/answer/9125317)
+  
+![Happy_coding](https://github.com/user-attachments/assets/33016bd1-c717-4633-a17e-404677690be8)
